@@ -1,0 +1,2 @@
+# CoffeeShop-Website
+# Welcome to **Brewed Bliss**—where every click is a sip of joy! This project is more than just a website; it’s your front-row seat to the world’s coziest coffee shop, all from the comfort of your screen. Explore our menu of magical brews, discover treats that’ll make your taste buds dance, and get lost in the warm, inviting vibes that make Brewed Bliss your happy place. So grab your favorite mug, settle in, and let’s brew up some bliss together—one delightful scroll at a time! ☕✨
